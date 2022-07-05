@@ -1,0 +1,5 @@
+﻿  SelectSort.cpp
+D:\Algorithm-EasyToMistake\SelectSort\SelectSort\SelectSort.cpp(8,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Algorithm-EasyToMistake\SelectSort\SelectSort\SelectSort.cpp(29,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Algorithm-EasyToMistake\SelectSort\SelectSort\SelectSort.cpp(60,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  SelectSort.vcxproj -> D:\Algorithm-EasyToMistake\SelectSort\x64\Debug\SelectSort.exe
